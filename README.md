@@ -1,9 +1,7 @@
 ### Hi there 👋
 Meu nome é Nicolle Moreira Alves, sou gaucha  e atualmente estou cursando o técnico em informatica para internet no CTISM-UFSM.
-<!--
-**nicolle1903/nicolle1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:Meus hobbies:
+Here are some ideas to get you started:Meus hobbies
 - Cozinhar
 - Viajar
 - Maquiar 
